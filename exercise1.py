@@ -1,3 +1,5 @@
+# Given two integer numbers return their product only if the product is greater than 1000, else return their sum.
+
 number1 = 20
 number2 = 30
 
